@@ -11,6 +11,8 @@ Output:
     - Charts saved to output/ directory as PNG files
 """
 
+from __future__ import annotations
+
 import json
 from pathlib import Path
 
