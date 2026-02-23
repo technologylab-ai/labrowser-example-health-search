@@ -1,0 +1,4000 @@
+[
+  {
+    "id": "95131fb3-2a7f-4ff4-9624-ad6baa80aa36",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "ff35a669-7e1d-4252-8d9c-1540720e8e9b",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:27:03.526Z",
+    "end_time": "2025-11-15T12:30:59.222Z",
+    "payload": {
+      "query": "intermittent fasting women hormones",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+women+hormones&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/intermittent-fasting-women-hormones",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T12:27:09.111Z",
+          "dwell_ms": 73224
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-women-hormones",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T12:28:25.867Z",
+          "dwell_ms": 52227
+        },
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-women-hormones-373554",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T12:29:21.763Z",
+          "dwell_ms": 13107
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/389093",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T12:29:37.915Z",
+          "dwell_ms": 57174
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/intermittent-fasting-women-hormones",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T12:30:39.006Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 235696
+    }
+  },
+  {
+    "id": "6e4a960a-b6e4-481b-9d17-42c45fd45d56",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "ff35a669-7e1d-4252-8d9c-1540720e8e9b",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:31:25.259Z",
+    "end_time": "2025-11-15T12:31:48.479Z",
+    "payload": {
+      "query": "intermittent fasting pubmed",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+pubmed&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-pubmed",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T12:31:29.841Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 23220
+    }
+  },
+  {
+    "id": "76359504-a452-4e44-b856-714b5a925a14",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "ff35a669-7e1d-4252-8d9c-1540720e8e9b",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:32:09.964Z",
+    "end_time": "2025-11-15T12:37:10.215Z",
+    "payload": {
+      "query": "intermittent fasting muscle gain",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+muscle+gain&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/intermittent-fasting-muscle-gain",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T12:32:14.003Z",
+          "dwell_ms": 20872
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+muscle+gain",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T12:32:37.987Z",
+          "dwell_ms": 49314
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-muscle-gain",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T12:33:30.459Z",
+          "dwell_ms": 86273
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9994082/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T12:35:00.154Z",
+          "dwell_ms": 80187
+        },
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-muscle-gain",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T12:36:24.556Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 300251
+    }
+  },
+  {
+    "id": "41064666-d22a-48f2-9ae3-4be00fd1bddf",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "ff35a669-7e1d-4252-8d9c-1540720e8e9b",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:37:42.063Z",
+    "end_time": "2025-11-15T12:42:47.371Z",
+    "payload": {
+      "query": "fasting and inflammation",
+      "serp_url": "https://www.google.com/search?q=fasting+and+inflammation&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.health.harvard.edu/blog/fasting-and-inflammation",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T12:37:49.893Z",
+          "dwell_ms": 100276
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33103346/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T12:39:34.503Z",
+          "dwell_ms": 41654
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=fasting+and+inflammation",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T12:40:19.673Z",
+          "dwell_ms": 84333
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/fasting-and-inflammation",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T12:41:47.145Z",
+          "dwell_ms": 33211
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/530089",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T12:42:23.222Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 305308
+    }
+  },
+  {
+    "id": "2e2a97fc-dd6b-410e-a68c-7f1ec68c8c84",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "ff35a669-7e1d-4252-8d9c-1540720e8e9b",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:43:07.646Z",
+    "end_time": "2025-11-15T12:44:20.484Z",
+    "payload": {
+      "query": "intermittent fasting keto",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+keto&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/intermittent-fasting-keto",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T12:43:13.425Z",
+          "dwell_ms": 43326
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/intermittent-fasting-keto/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T12:44:00.778Z",
+          "dwell_ms": 5460
+        },
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/intermittent-fasting-keto",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T12:44:09.601Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 72838
+    }
+  },
+  {
+    "id": "ac58b326-d87c-42c9-aa52-8ca4b8ceded4",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8b119eb1-6dfd-41ca-b557-2b00b3b11e1c",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:21:02.578Z",
+    "end_time": "2025-11-15T13:24:04.227Z",
+    "payload": {
+      "query": "fasting and gut health",
+      "serp_url": "https://www.google.com/search?q=fasting+and+gut+health&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/fasting-and-gut-health",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T13:21:07.155Z",
+          "dwell_ms": 5000
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/fasting-and-gut-health",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T13:21:15.664Z",
+          "dwell_ms": 22796
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/fasting-and-gut-health",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T13:21:43.145Z",
+          "dwell_ms": 78016
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/fasting-and-gut-health",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T13:23:04.621Z",
+          "dwell_ms": 24165
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/fasting-and-gut-health/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T13:23:32.445Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 181649
+    }
+  },
+  {
+    "id": "d66e8136-2123-426c-a42b-45992c6987ce",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8b119eb1-6dfd-41ca-b557-2b00b3b11e1c",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:24:54.747Z",
+    "end_time": "2025-11-15T13:26:26.526Z",
+    "payload": {
+      "query": "intermittent fasting keto",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+keto&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/intermittent-fasting-keto",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T13:24:58.261Z",
+          "dwell_ms": 5000
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+keto",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T13:25:07.601Z",
+          "dwell_ms": 42847
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30412276/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T13:25:54.538Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 91779
+    }
+  },
+  {
+    "id": "7fa34f21-fe3d-4e46-9ba3-335a9bf567a4",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8b119eb1-6dfd-41ca-b557-2b00b3b11e1c",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:26:54.253Z",
+    "end_time": "2025-11-15T13:29:32.445Z",
+    "payload": {
+      "query": "intermittent fasting benefits",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+benefits&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.health.harvard.edu/blog/intermittent-fasting-benefits",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T13:27:02.061Z",
+          "dwell_ms": 53357
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/573243",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T13:27:58.717Z",
+          "dwell_ms": 38687
+        },
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/intermittent-fasting-benefits",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T13:28:42.353Z",
+          "dwell_ms": 12973
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/intermittent-fasting-benefits",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T13:28:59.550Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 158192
+    }
+  },
+  {
+    "id": "178c7ee0-c54c-4177-926b-d0a9297f73bb",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8b119eb1-6dfd-41ca-b557-2b00b3b11e1c",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:30:07.023Z",
+    "end_time": "2025-11-15T13:31:38.752Z",
+    "payload": {
+      "query": "fasting and inflammation",
+      "serp_url": "https://www.google.com/search?q=fasting+and+inflammation&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthdata.org/research-analysis/fasting-and-inflammation",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T13:30:12.326Z",
+          "dwell_ms": 5000
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/fasting-and-inflammation",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T13:30:21.621Z",
+          "dwell_ms": 49109
+        },
+        {
+          "url": "https://www.verywellfit.com/fasting-and-inflammation-478343",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T13:31:14.154Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 91729
+    }
+  },
+  {
+    "id": "89baca1a-7728-41f0-b318-6563ab180c57",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8b119eb1-6dfd-41ca-b557-2b00b3b11e1c",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:32:04.688Z",
+    "end_time": "2025-11-15T13:33:40.875Z",
+    "payload": {
+      "query": "16:8 fasting schedule",
+      "serp_url": "https://www.google.com/search?q=16%3A8+fasting+schedule&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9351471/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T13:32:10.477Z",
+          "dwell_ms": 32478
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=16%3A8+fasting+schedule",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T13:32:46.238Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 96187
+    }
+  },
+  {
+    "id": "965e6e47-55f8-4e80-bb75-a7254890a862",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8b119eb1-6dfd-41ca-b557-2b00b3b11e1c",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:34:03.894Z",
+    "end_time": "2025-11-15T13:37:53.365Z",
+    "payload": {
+      "query": "intermittent fasting research studies",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+research+studies&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://examine.com/supplements/fasting/intermittent-fasting-research-studies/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T13:34:08.725Z",
+          "dwell_ms": 40308
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7724916/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T13:34:52.312Z",
+          "dwell_ms": 57907
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/366798",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T13:35:54.683Z",
+          "dwell_ms": 53519
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-research-studies",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T13:36:51.691Z",
+          "dwell_ms": 45286
+        },
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/intermittent-fasting-research-studies",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T13:37:40.001Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 229471
+    }
+  },
+  {
+    "id": "67ab0645-8949-4027-a468-90e6e3bb910c",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8aa1dab9-5824-4c2d-bcb1-574007fb5302",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T14:15:03.803Z",
+    "end_time": "2025-11-15T14:17:56.561Z",
+    "payload": {
+      "query": "intermittent fasting research studies",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+research+studies&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+research+studies",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T14:15:08.567Z",
+          "dwell_ms": 88842
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-research-studies",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T14:16:40.370Z",
+          "dwell_ms": 43539
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/intermittent-fasting-research-studies/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T14:17:27.192Z",
+          "dwell_ms": 5000
+        },
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/intermittent-fasting-research-studies",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T14:17:35.119Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 172758
+    }
+  },
+  {
+    "id": "0fd312fa-339c-480f-926d-74bb088b6463",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8aa1dab9-5824-4c2d-bcb1-574007fb5302",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T14:18:12.010Z",
+    "end_time": "2025-11-15T14:18:33.039Z",
+    "payload": {
+      "query": "intermittent fasting meal ideas",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+meal+ideas&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33848971/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T14:18:17.299Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 21029
+    }
+  },
+  {
+    "id": "43ac67ca-fffb-4b32-b101-2a2f12bf17bd",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8aa1dab9-5824-4c2d-bcb1-574007fb5302",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T14:18:51.458Z",
+    "end_time": "2025-11-15T14:20:50.584Z",
+    "payload": {
+      "query": "fasting and inflammation",
+      "serp_url": "https://www.google.com/search?q=fasting+and+inflammation&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.health.harvard.edu/blog/fasting-and-inflammation",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T14:18:58.464Z",
+          "dwell_ms": 52740
+        },
+        {
+          "url": "https://www.verywellfit.com/fasting-and-inflammation-835217",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T14:19:56.018Z",
+          "dwell_ms": 15939
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/fasting-and-inflammation",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T14:20:14.413Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 119126
+    }
+  },
+  {
+    "id": "e2bcb061-dd80-44ab-b8b8-a5938fc66262",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8aa1dab9-5824-4c2d-bcb1-574007fb5302",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T14:21:24.484Z",
+    "end_time": "2025-11-15T14:22:18.271Z",
+    "payload": {
+      "query": "IF meal planning",
+      "serp_url": "https://www.google.com/search?q=IF+meal+planning&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.medicalnewstoday.com/articles/774656",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T14:21:30.801Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 53787
+    }
+  },
+  {
+    "id": "57e28134-eec6-4543-87a8-5cb935690721",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "7056df9b-b57d-4964-a4d8-ae42acc4cc1b",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T11:55:02.452Z",
+    "end_time": "2025-11-15T11:56:09.074Z",
+    "payload": {
+      "query": "intermittent fasting women hormones",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+women+hormones&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9730979/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T11:55:06.710Z",
+          "dwell_ms": 45901
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-women-hormones",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T11:55:55.954Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 66622
+    }
+  },
+  {
+    "id": "bb8d691a-810b-455f-bfed-d424ee6e746c",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "7056df9b-b57d-4964-a4d8-ae42acc4cc1b",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T11:56:34.615Z",
+    "end_time": "2025-11-15T11:59:59.525Z",
+    "payload": {
+      "query": "autophagy fasting",
+      "serp_url": "https://www.google.com/search?q=autophagy+fasting&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthline.com/nutrition/autophagy-fasting",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T11:56:39.967Z",
+          "dwell_ms": 50669
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/autophagy-fasting",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T11:57:35.118Z",
+          "dwell_ms": 30097
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=autophagy+fasting",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T11:58:07.909Z",
+          "dwell_ms": 62518
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7977680/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T11:59:13.167Z",
+          "dwell_ms": 26254
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/775238",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T11:59:43.063Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 204910
+    }
+  },
+  {
+    "id": "6c2d3ab7-2387-42da-b7ae-21efce2b141b",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "7056df9b-b57d-4964-a4d8-ae42acc4cc1b",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:00:37.188Z",
+    "end_time": "2025-11-15T12:02:28.375Z",
+    "payload": {
+      "query": "best foods to break a fast",
+      "serp_url": "https://www.google.com/search?q=best+foods+to+break+a+fast&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.webmd.com/diet/a-z/best-foods-to-break-a-fast",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T12:00:41.684Z",
+          "dwell_ms": 20371
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=best+foods+to+break+a+fast",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T12:01:06.036Z",
+          "dwell_ms": 66367
+        },
+        {
+          "url": "https://www.verywellfit.com/best-foods-to-break-a-fast-275937",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T12:02:16.215Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 111187
+    }
+  },
+  {
+    "id": "d7c04b91-85ca-43a6-9b06-5314281fbd4a",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "7056df9b-b57d-4964-a4d8-ae42acc4cc1b",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:03:22.108Z",
+    "end_time": "2025-11-15T12:07:13.540Z",
+    "payload": {
+      "query": "intermittent fasting and metabolism",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+and+metabolism&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-and-metabolism",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T12:03:27.740Z",
+          "dwell_ms": 59263
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+and+metabolism",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T12:04:30.697Z",
+          "dwell_ms": 69182
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-and-metabolism",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T12:05:44.257Z",
+          "dwell_ms": 35626
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/intermittent-fasting-and-metabolism/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T12:06:24.251Z",
+          "dwell_ms": 34023
+        },
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-and-metabolism-607952",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T12:07:02.298Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 231432
+    }
+  },
+  {
+    "id": "2d69a45b-6f70-4263-bd01-4fc44c0f1f47",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "58013f80-d0f9-4412-a67d-99a9336b5f89",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:09:02.623Z",
+    "end_time": "2025-11-15T13:09:50.984Z",
+    "payload": {
+      "query": "intermittent fasting muscle gain",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+muscle+gain&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-muscle-gain",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T13:09:09.477Z",
+          "dwell_ms": 26692
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/intermittent-fasting-muscle-gain",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T13:09:39.587Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 48361
+    }
+  },
+  {
+    "id": "4ba9b480-d816-4a84-90a3-07d290f34bf4",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "58013f80-d0f9-4412-a67d-99a9336b5f89",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:10:04.983Z",
+    "end_time": "2025-11-15T13:13:05.967Z",
+    "payload": {
+      "query": "fasting blood sugar effects",
+      "serp_url": "https://www.google.com/search?q=fasting+blood+sugar+effects&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/fasting-blood-sugar-effects",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T13:10:11.803Z",
+          "dwell_ms": 81934
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/fasting-blood-sugar-effects",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T13:11:36.672Z",
+          "dwell_ms": 34528
+        },
+        {
+          "url": "https://www.verywellfit.com/fasting-blood-sugar-effects-305780",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T13:12:14.636Z",
+          "dwell_ms": 23295
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=fasting+blood+sugar+effects",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T13:12:41.343Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 180984
+    }
+  },
+  {
+    "id": "d539e693-f6e8-41f9-9a3c-bf56571ee011",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "58013f80-d0f9-4412-a67d-99a9336b5f89",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:13:42.588Z",
+    "end_time": "2025-11-15T13:16:20.684Z",
+    "payload": {
+      "query": "fasting insulin resistance",
+      "serp_url": "https://www.google.com/search?q=fasting+insulin+resistance&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.health.harvard.edu/blog/fasting-insulin-resistance",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T13:13:48.998Z",
+          "dwell_ms": 73126
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=fasting+insulin+resistance",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T13:15:06.182Z",
+          "dwell_ms": 49468
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/fasting-insulin-resistance/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T13:15:59.661Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 158096
+    }
+  },
+  {
+    "id": "ca4e9486-0b1d-4168-9a5f-e255c5fd657d",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "58013f80-d0f9-4412-a67d-99a9336b5f89",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:16:45.440Z",
+    "end_time": "2025-11-15T13:19:05.451Z",
+    "payload": {
+      "query": "intermittent fasting for beginners",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+for+beginners&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/intermittent-fasting-for-beginners",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T13:16:52.033Z",
+          "dwell_ms": 40740
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+for+beginners",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T13:17:37.033Z",
+          "dwell_ms": 39083
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/intermittent-fasting-for-beginners",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T13:18:19.065Z",
+          "dwell_ms": 24585
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/intermittent-fasting-for-beginners/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T13:18:48.404Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 140011
+    }
+  },
+  {
+    "id": "6869a18a-7b0a-4eb0-875e-457bd4d2625d",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "1053ea00-9ab0-4180-bff9-3f405877fc57",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T14:58:03.640Z",
+    "end_time": "2025-11-15T15:00:33.205Z",
+    "payload": {
+      "query": "fasting headache causes",
+      "serp_url": "https://www.google.com/search?q=fasting+headache+causes&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/fasting-headache-causes",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T14:58:07.798Z",
+          "dwell_ms": 14503
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/fasting-headache-causes",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T14:58:25.752Z",
+          "dwell_ms": 32334
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/fasting-headache-causes",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T14:59:01.745Z",
+          "dwell_ms": 48378
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/fasting-headache-causes",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T14:59:53.377Z",
+          "dwell_ms": 5686
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/fasting-headache-causes/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T15:00:02.635Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 149565
+    }
+  },
+  {
+    "id": "9bf3c735-295c-453d-9bd8-baa00f94ff21",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "1053ea00-9ab0-4180-bff9-3f405877fc57",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T15:01:17.741Z",
+    "end_time": "2025-11-15T15:01:46.883Z",
+    "payload": {
+      "query": "time restricted eating benefits",
+      "serp_url": "https://www.google.com/search?q=time+restricted+eating+benefits&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/time-restricted-eating-benefits",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T15:01:23.181Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 29142
+    }
+  },
+  {
+    "id": "c285ecd8-e88e-4135-beeb-60ad655be0df",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "1053ea00-9ab0-4180-bff9-3f405877fc57",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T15:02:15.986Z",
+    "end_time": "2025-11-15T15:06:58.174Z",
+    "payload": {
+      "query": "fasting blood sugar effects",
+      "serp_url": "https://www.google.com/search?q=fasting+blood+sugar+effects&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.medicalnewstoday.com/articles/200383",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T15:02:21.680Z",
+          "dwell_ms": 87748
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=fasting+blood+sugar+effects",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T15:03:53.056Z",
+          "dwell_ms": 12616
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/fasting-blood-sugar-effects",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T15:04:09.129Z",
+          "dwell_ms": 44802
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/fasting-blood-sugar-effects",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T15:04:57.552Z",
+          "dwell_ms": 69018
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/fasting-blood-sugar-effects",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T15:06:11.062Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 282188
+    }
+  },
+  {
+    "id": "f83e78f5-088d-4bee-a4bd-2f771961077c",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "1053ea00-9ab0-4180-bff9-3f405877fc57",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T15:07:18.634Z",
+    "end_time": "2025-11-15T15:09:25.023Z",
+    "payload": {
+      "query": "intermittent fasting research studies",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+research+studies&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/intermittent-fasting-research-studies",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T15:07:24.473Z",
+          "dwell_ms": 10075
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8648480/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T15:07:37.388Z",
+          "dwell_ms": 5000
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-research-studies",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T15:07:45.096Z",
+          "dwell_ms": 6224
+        },
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-research-studies",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T15:07:53.921Z",
+          "dwell_ms": 58796
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-research-studies",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T15:08:56.452Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 126389
+    }
+  },
+  {
+    "id": "cefd747c-3655-4476-bc00-506ceb4aff13",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "1053ea00-9ab0-4180-bff9-3f405877fc57",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T15:10:06.971Z",
+    "end_time": "2025-11-15T15:13:38.998Z",
+    "payload": {
+      "query": "IF meal planning",
+      "serp_url": "https://www.google.com/search?q=IF+meal+planning&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthdata.org/research-analysis/if-meal-planning",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T15:10:11.172Z",
+          "dwell_ms": 37840
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/if-meal-planning",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T15:10:52.058Z",
+          "dwell_ms": 50431
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38542831/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T15:11:45.798Z",
+          "dwell_ms": 69129
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/814347",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T15:12:58.900Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 212027
+    }
+  },
+  {
+    "id": "c7bef36f-6b40-4ca8-adcc-cdac881030bb",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "1053ea00-9ab0-4180-bff9-3f405877fc57",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T15:14:20.148Z",
+    "end_time": "2025-11-15T15:16:35.918Z",
+    "payload": {
+      "query": "is intermittent fasting safe",
+      "serp_url": "https://www.google.com/search?q=is+intermittent+fasting+safe&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/is-intermittent-fasting-safe",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T15:14:26.085Z",
+          "dwell_ms": 32663
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38526226/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T15:15:01.666Z",
+          "dwell_ms": 64171
+        },
+        {
+          "url": "https://www.verywellfit.com/is-intermittent-fasting-safe-579924",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T15:16:09.818Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 135770
+    }
+  },
+  {
+    "id": "c588cb2b-08fc-4ac6-9fab-8634abc1e44f",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "1053ea00-9ab0-4180-bff9-3f405877fc57",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T15:16:55.213Z",
+    "end_time": "2025-11-15T15:21:05.877Z",
+    "payload": {
+      "query": "intermittent fasting muscle gain",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+muscle+gain&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthline.com/nutrition/intermittent-fasting-muscle-gain",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T15:17:01.778Z",
+          "dwell_ms": 24886
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/intermittent-fasting-muscle-gain",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T15:17:30.636Z",
+          "dwell_ms": 67780
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+muscle+gain",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T15:18:42.209Z",
+          "dwell_ms": 47450
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/intermittent-fasting-muscle-gain",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T15:19:33.312Z",
+          "dwell_ms": 48184
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/240662",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T15:20:25.203Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 250664
+    }
+  },
+  {
+    "id": "2b473cf0-2888-4188-92e4-e93cdbfb3a20",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "1053ea00-9ab0-4180-bff9-3f405877fc57",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T15:21:35.328Z",
+    "end_time": "2025-11-15T15:23:32.411Z",
+    "payload": {
+      "query": "intermittent fasting pubmed",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+pubmed&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.health.harvard.edu/blog/intermittent-fasting-pubmed",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T15:21:40.372Z",
+          "dwell_ms": 58724
+        },
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-pubmed",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T15:22:42.379Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 117083
+    }
+  },
+  {
+    "id": "c2329877-e590-4c82-840b-b8106d02a4a8",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "9fb2bc53-138e-49e2-9e48-a654ebcdbc48",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:00:02.323Z",
+    "end_time": "2025-11-15T10:03:31.582Z",
+    "payload": {
+      "query": "intermittent fasting benefits",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+benefits&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+benefits",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T10:00:07.972Z",
+          "dwell_ms": 70844
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/intermittent-fasting-benefits/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T10:01:22.221Z",
+          "dwell_ms": 5000
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-benefits",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T10:01:30.493Z",
+          "dwell_ms": 101935
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/intermittent-fasting-benefits",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T10:03:15.355Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 209259
+    }
+  },
+  {
+    "id": "51dced0d-6f0a-4929-b098-cca37acb5cb5",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "9fb2bc53-138e-49e2-9e48-a654ebcdbc48",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:03:56.371Z",
+    "end_time": "2025-11-15T10:04:35.959Z",
+    "payload": {
+      "query": "is intermittent fasting safe",
+      "serp_url": "https://www.google.com/search?q=is+intermittent+fasting+safe&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.health.harvard.edu/blog/is-intermittent-fasting-safe",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T10:04:01.295Z",
+          "dwell_ms": 6187
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=is+intermittent+fasting+safe",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T10:04:10.494Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 39588
+    }
+  },
+  {
+    "id": "9ac2ecfa-6deb-469a-b82d-99aeba66d46c",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "9fb2bc53-138e-49e2-9e48-a654ebcdbc48",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:05:06.347Z",
+    "end_time": "2025-11-15T10:05:23.730Z",
+    "payload": {
+      "query": "intermittent fasting weight loss",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+weight+loss&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-weight-loss",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T10:05:10.660Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 17383
+    }
+  },
+  {
+    "id": "bbf465b2-e85b-4b43-9756-d4460eaf90f6",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "9fb2bc53-138e-49e2-9e48-a654ebcdbc48",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:05:48.168Z",
+    "end_time": "2025-11-15T10:07:19.971Z",
+    "payload": {
+      "query": "intermittent fasting women hormones",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+women+hormones&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.health.harvard.edu/blog/intermittent-fasting-women-hormones",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T10:05:52.636Z",
+          "dwell_ms": 59399
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+women+hormones",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T10:06:56.307Z",
+          "dwell_ms": 5000
+        },
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/intermittent-fasting-women-hormones",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T10:07:04.518Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 91803
+    }
+  },
+  {
+    "id": "62bfdf0c-106d-4faf-9d66-10a930483d08",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "9fb2bc53-138e-49e2-9e48-a654ebcdbc48",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:07:35.371Z",
+    "end_time": "2025-11-15T10:10:51.854Z",
+    "payload": {
+      "query": "intermittent fasting side effects",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+side+effects&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-side-effects",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T10:07:41.252Z",
+          "dwell_ms": 78062
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-side-effects",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T10:09:03.816Z",
+          "dwell_ms": 90413
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7518781/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T10:10:37.506Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 196483
+    }
+  },
+  {
+    "id": "86f3745d-6435-411e-a4c0-59c8344486a7",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "9fb2bc53-138e-49e2-9e48-a654ebcdbc48",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:11:14.877Z",
+    "end_time": "2025-11-15T10:16:31.951Z",
+    "payload": {
+      "query": "intermittent fasting for beginners",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+for+beginners&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.medicalnewstoday.com/articles/103504",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T10:11:20.640Z",
+          "dwell_ms": 58554
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/intermittent-fasting-for-beginners",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T10:12:22.884Z",
+          "dwell_ms": 95515
+        },
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-for-beginners",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T10:14:03.151Z",
+          "dwell_ms": 55987
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38229357/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T10:15:02.313Z",
+          "dwell_ms": 56505
+        },
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-for-beginners-454982",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T10:16:03.181Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 317074
+    }
+  },
+  {
+    "id": "1b875790-5a73-488c-bd65-70c59d612325",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "9fb2bc53-138e-49e2-9e48-a654ebcdbc48",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:16:51.775Z",
+    "end_time": "2025-11-15T10:19:31.119Z",
+    "payload": {
+      "query": "best foods to break a fast",
+      "serp_url": "https://www.google.com/search?q=best+foods+to+break+a+fast&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://scholar.google.com/scholar?q=best+foods+to+break+a+fast",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T10:16:57.099Z",
+          "dwell_ms": 47253
+        },
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/best-foods-to-break-a-fast",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T10:17:47.814Z",
+          "dwell_ms": 21079
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/best-foods-to-break-a-fast",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T10:18:12.118Z",
+          "dwell_ms": 51704
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/best-foods-to-break-a-fast",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T10:19:07.069Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 159344
+    }
+  },
+  {
+    "id": "19c4979e-8e93-4244-ad3a-6a9deda7684b",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "9fb2bc53-138e-49e2-9e48-a654ebcdbc48",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:20:05.651Z",
+    "end_time": "2025-11-15T10:22:45.676Z",
+    "payload": {
+      "query": "intermittent fasting muscle gain",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+muscle+gain&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36984284/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T10:20:11.662Z",
+          "dwell_ms": 66430
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/intermittent-fasting-muscle-gain",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T10:21:22.331Z",
+          "dwell_ms": 70984
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+muscle+gain",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T10:22:37.232Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 160025
+    }
+  },
+  {
+    "id": "d125a282-5be9-4c17-a096-4ba5d6e0187d",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "eb7bb6e4-001d-4374-ad93-3a32401a0017",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:33:03.495Z",
+    "end_time": "2025-11-15T12:33:31.496Z",
+    "payload": {
+      "query": "intermittent fasting pubmed",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+pubmed&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.health.harvard.edu/blog/intermittent-fasting-pubmed",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T12:33:09.295Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 28001
+    }
+  },
+  {
+    "id": "a58bb634-b50a-492c-8d7b-27c70b538e74",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "eb7bb6e4-001d-4374-ad93-3a32401a0017",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:34:12.619Z",
+    "end_time": "2025-11-15T12:36:00.020Z",
+    "payload": {
+      "query": "16:8 fasting schedule",
+      "serp_url": "https://www.google.com/search?q=16%3A8+fasting+schedule&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthline.com/nutrition/168-fasting-schedule",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T12:34:20.057Z",
+          "dwell_ms": 20452
+        },
+        {
+          "url": "https://www.verywellfit.com/168-fasting-schedule-397413",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T12:34:43.667Z",
+          "dwell_ms": 64496
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/168-fasting-schedule",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T12:35:51.824Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 107401
+    }
+  },
+  {
+    "id": "7ac963b7-bf58-46b2-a2ed-f8fc977520b0",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "eb7bb6e4-001d-4374-ad93-3a32401a0017",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:36:21.912Z",
+    "end_time": "2025-11-15T12:39:37.909Z",
+    "payload": {
+      "query": "intermittent fasting benefits",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+benefits&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+benefits",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T12:36:27.645Z",
+          "dwell_ms": 80772
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/intermittent-fasting-benefits",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T12:37:52.441Z",
+          "dwell_ms": 83232
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/intermittent-fasting-benefits",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T12:39:18.883Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 195997
+    }
+  },
+  {
+    "id": "c407f553-e322-4f57-bc4b-feac7fecc6b3",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "eb7bb6e4-001d-4374-ad93-3a32401a0017",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:40:15.559Z",
+    "end_time": "2025-11-15T12:41:46.191Z",
+    "payload": {
+      "query": "intermittent fasting meal ideas",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+meal+ideas&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.medicalnewstoday.com/articles/817535",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T12:40:19.691Z",
+          "dwell_ms": 23430
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9040154/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T12:40:47.330Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 90632
+    }
+  },
+  {
+    "id": "5fb3fd16-43d3-493d-9a5d-40c83bc50d6c",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "eb7bb6e4-001d-4374-ad93-3a32401a0017",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:42:27.788Z",
+    "end_time": "2025-11-15T12:44:44.794Z",
+    "payload": {
+      "query": "best foods to break a fast",
+      "serp_url": "https://www.google.com/search?q=best+foods+to+break+a+fast&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/best-foods-to-break-a-fast",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T12:42:32.699Z",
+          "dwell_ms": 45611
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/best-foods-to-break-a-fast",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T12:43:21.657Z",
+          "dwell_ms": 13272
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/best-foods-to-break-a-fast",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T12:43:39.350Z",
+          "dwell_ms": 41873
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/best-foods-to-break-a-fast",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T12:44:24.211Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 137006
+    }
+  },
+  {
+    "id": "952571ef-6ef1-4c76-8937-37e361c0f0d6",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "eb7bb6e4-001d-4374-ad93-3a32401a0017",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:45:06.159Z",
+    "end_time": "2025-11-15T12:46:48.580Z",
+    "payload": {
+      "query": "intermittent fasting for beginners",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+for+beginners&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-for-beginners",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T12:45:11.637Z",
+          "dwell_ms": 71429
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-for-beginners",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T12:46:26.777Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 102421
+    }
+  },
+  {
+    "id": "dc9c722c-5d1d-452c-9038-be91018e39df",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "eb7bb6e4-001d-4374-ad93-3a32401a0017",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:47:26.579Z",
+    "end_time": "2025-11-15T12:50:36.916Z",
+    "payload": {
+      "query": "IF meal planning",
+      "serp_url": "https://www.google.com/search?q=IF+meal+planning&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://scholar.google.com/scholar?q=IF+meal+planning",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T12:47:31.435Z",
+          "dwell_ms": 16541
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/if-meal-planning",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T12:47:50.515Z",
+          "dwell_ms": 23866
+        },
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/if-meal-planning",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T12:48:17.310Z",
+          "dwell_ms": 48852
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/if-meal-planning",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T12:49:10.788Z",
+          "dwell_ms": 64529
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/231435",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T12:50:18.184Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 190337
+    }
+  },
+  {
+    "id": "91be7628-1864-4fd7-99a8-7c32968c7d9e",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "e2e192c6-b915-4517-9168-9287a8c162f4",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:31:02.537Z",
+    "end_time": "2025-11-15T13:31:25.693Z",
+    "payload": {
+      "query": "autophagy fasting",
+      "serp_url": "https://www.google.com/search?q=autophagy+fasting&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.verywellfit.com/autophagy-fasting-275353",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T13:31:09.792Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 23156
+    }
+  },
+  {
+    "id": "87e1adcf-8b40-4a7e-b07f-f3a00d9a9ffd",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "e2e192c6-b915-4517-9168-9287a8c162f4",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:31:55.260Z",
+    "end_time": "2025-11-15T13:34:26.771Z",
+    "payload": {
+      "query": "16:8 fasting schedule",
+      "serp_url": "https://www.google.com/search?q=16%3A8+fasting+schedule&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.health.harvard.edu/blog/168-fasting-schedule",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T13:32:02.622Z",
+          "dwell_ms": 62252
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/168-fasting-schedule",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T13:33:08.808Z",
+          "dwell_ms": 72612
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/168-fasting-schedule",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T13:34:25.177Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 151511
+    }
+  },
+  {
+    "id": "2e50e628-004d-43b4-90b8-db85117e3405",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "e2e192c6-b915-4517-9168-9287a8c162f4",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:34:59.054Z",
+    "end_time": "2025-11-15T13:38:16.322Z",
+    "payload": {
+      "query": "intermittent fasting pubmed",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+pubmed&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthline.com/nutrition/intermittent-fasting-pubmed",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T13:35:06.599Z",
+          "dwell_ms": 17695
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/intermittent-fasting-pubmed",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T13:35:27.909Z",
+          "dwell_ms": 77612
+        },
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-pubmed-110843",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T13:36:48.259Z",
+          "dwell_ms": 58756
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/intermittent-fasting-pubmed",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T13:37:51.088Z",
+          "dwell_ms": 5000
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-pubmed",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T13:37:59.735Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 197268
+    }
+  },
+  {
+    "id": "145ba661-281e-4814-8ef3-6859db202b55",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "e2e192c6-b915-4517-9168-9287a8c162f4",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:38:43.519Z",
+    "end_time": "2025-11-15T13:39:15.112Z",
+    "payload": {
+      "query": "intermittent fasting muscle gain",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+muscle+gain&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/intermittent-fasting-muscle-gain",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T13:38:50.333Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 31593
+    }
+  },
+  {
+    "id": "ef85e975-e046-4d40-958e-df1c2308424a",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "e2e192c6-b915-4517-9168-9287a8c162f4",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:39:48.626Z",
+    "end_time": "2025-11-15T13:42:05.298Z",
+    "payload": {
+      "query": "intermittent fasting side effects",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+side+effects&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthline.com/nutrition/intermittent-fasting-side-effects",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T13:39:55.115Z",
+          "dwell_ms": 28277
+        },
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/intermittent-fasting-side-effects",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T13:40:26.843Z",
+          "dwell_ms": 32641
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+side+effects",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T13:41:03.721Z",
+          "dwell_ms": 47878
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-side-effects",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T13:41:56.427Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 136672
+    }
+  },
+  {
+    "id": "a04d6392-a404-4ae1-9669-d1b2e1904910",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "e2e192c6-b915-4517-9168-9287a8c162f4",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:42:15.613Z",
+    "end_time": "2025-11-15T13:46:04.584Z",
+    "payload": {
+      "query": "intermittent fasting meal ideas",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+meal+ideas&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/intermittent-fasting-meal-ideas",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T13:42:20.245Z",
+          "dwell_ms": 57286
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-meal-ideas",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T13:43:21.741Z",
+          "dwell_ms": 66858
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8879219/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T13:44:33.092Z",
+          "dwell_ms": 86202
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-meal-ideas",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T13:46:02.527Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 228971
+    }
+  },
+  {
+    "id": "c29dbb38-425c-409f-ba6f-ca72ef475ebb",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "e2e192c6-b915-4517-9168-9287a8c162f4",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:46:17.014Z",
+    "end_time": "2025-11-15T13:50:45.991Z",
+    "payload": {
+      "query": "intermittent fasting women hormones",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+women+hormones&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.medicalnewstoday.com/articles/286609",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T13:46:22.150Z",
+          "dwell_ms": 71223
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/intermittent-fasting-women-hormones",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T13:47:36.188Z",
+          "dwell_ms": 86914
+        },
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-women-hormones",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T13:49:05.840Z",
+          "dwell_ms": 49651
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38452418/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T13:49:58.445Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 268977
+    }
+  },
+  {
+    "id": "abb4124a-88f7-41ae-9179-7d543b0b84bc",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "38f7ea35-68da-4c0b-9fd3-060443244bad",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:20:02.968Z",
+    "end_time": "2025-11-15T13:23:09.081Z",
+    "payload": {
+      "query": "fasting insulin resistance",
+      "serp_url": "https://www.google.com/search?q=fasting+insulin+resistance&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthdata.org/research-analysis/fasting-insulin-resistance",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T13:20:09.958Z",
+          "dwell_ms": 12731
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/fasting-insulin-resistance",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T13:20:27.610Z",
+          "dwell_ms": 60582
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=fasting+insulin+resistance",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T13:21:31.888Z",
+          "dwell_ms": 57197
+        },
+        {
+          "url": "https://www.verywellfit.com/fasting-insulin-resistance-300061",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T13:22:33.125Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 186113
+    }
+  },
+  {
+    "id": "9b227dbe-9823-4792-9987-578ef3ccbc48",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "38f7ea35-68da-4c0b-9fd3-060443244bad",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:23:33.672Z",
+    "end_time": "2025-11-15T13:27:53.535Z",
+    "payload": {
+      "query": "fasting headache causes",
+      "serp_url": "https://www.google.com/search?q=fasting+headache+causes&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.verywellfit.com/fasting-headache-causes-190381",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T13:23:40.507Z",
+          "dwell_ms": 61704
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/fasting-headache-causes/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T13:24:46.141Z",
+          "dwell_ms": 79674
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8898647/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T13:26:09.886Z",
+          "dwell_ms": 28175
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/fasting-headache-causes",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T13:26:40.691Z",
+          "dwell_ms": 40029
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/fasting-headache-causes",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T13:27:24.656Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 259863
+    }
+  },
+  {
+    "id": "cee78501-c194-497e-a6cd-d8eb5df424eb",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "38f7ea35-68da-4c0b-9fd3-060443244bad",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:31:07.646Z",
+    "end_time": "2025-11-15T13:33:33.869Z",
+    "payload": {
+      "query": "intermittent fasting weight loss",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+weight+loss&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://examine.com/supplements/fasting/intermittent-fasting-weight-loss/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T13:31:13.508Z",
+          "dwell_ms": 43406
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+weight+loss",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T13:32:01.032Z",
+          "dwell_ms": 52400
+        },
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-weight-loss",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T13:32:56.624Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 146223
+    }
+  },
+  {
+    "id": "b4e774e3-68c3-4695-9d97-b1043306a9e3",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "03ac7b74-e55f-417f-93f6-bf169ed92444",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:13:02.753Z",
+    "end_time": "2025-11-15T13:13:40.229Z",
+    "payload": {
+      "query": "intermittent fasting muscle gain",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+muscle+gain&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://examine.com/supplements/fasting/intermittent-fasting-muscle-gain/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T13:13:06.280Z",
+          "dwell_ms": 5037
+        },
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-muscle-gain-185710",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T13:13:13.877Z",
+          "dwell_ms": 7583
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+muscle+gain",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T13:13:25.233Z",
+          "dwell_ms": 9144
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/intermittent-fasting-muscle-gain",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T13:13:37.390Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 37476
+    }
+  },
+  {
+    "id": "20ac3a9b-cb25-4c98-bdad-9cd9e7a0366a",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "03ac7b74-e55f-417f-93f6-bf169ed92444",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:13:50.637Z",
+    "end_time": "2025-11-15T13:15:21.954Z",
+    "payload": {
+      "query": "intermittent fasting for beginners",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+for+beginners&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-for-beginners",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T13:13:56.330Z",
+          "dwell_ms": 38654
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-for-beginners",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T13:14:38.058Z",
+          "dwell_ms": 28030
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/intermittent-fasting-for-beginners",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T13:15:09.751Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 91317
+    }
+  },
+  {
+    "id": "d85c8cbf-075b-459b-9c6d-c8f3fdf0287b",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "03ac7b74-e55f-417f-93f6-bf169ed92444",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:15:44.740Z",
+    "end_time": "2025-11-15T13:17:53.626Z",
+    "payload": {
+      "query": "intermittent fasting weight loss",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+weight+loss&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-weight-loss-825126",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T13:15:52.778Z",
+          "dwell_ms": 44560
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/451436",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T13:16:41.322Z",
+          "dwell_ms": 42519
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/intermittent-fasting-weight-loss",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T13:17:27.403Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 128886
+    }
+  },
+  {
+    "id": "37c8b27a-a0eb-4bb9-a8f5-6ab786816af8",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "36d1026c-a321-402c-86dd-9a49cabbbfa5",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:01:01.897Z",
+    "end_time": "2025-11-15T10:03:48.717Z",
+    "payload": {
+      "query": "fasting and gut health",
+      "serp_url": "https://www.google.com/search?q=fasting+and+gut+health&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.verywellfit.com/fasting-and-gut-health-421023",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T10:01:06.990Z",
+          "dwell_ms": 28860
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/fasting-and-gut-health",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T10:01:38.823Z",
+          "dwell_ms": 43217
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/fasting-and-gut-health",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T10:02:26.025Z",
+          "dwell_ms": 54401
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/fasting-and-gut-health",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T10:03:22.867Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 166820
+    }
+  },
+  {
+    "id": "5fa34f77-e09b-40b7-9618-9efb875fafe5",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "36d1026c-a321-402c-86dd-9a49cabbbfa5",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:04:24.509Z",
+    "end_time": "2025-11-15T10:08:36.562Z",
+    "payload": {
+      "query": "intermittent fasting muscle gain",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+muscle+gain&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-muscle-gain",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T10:04:29.374Z",
+          "dwell_ms": 59407
+        },
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-muscle-gain-524606",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T10:05:32.851Z",
+          "dwell_ms": 45221
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/intermittent-fasting-muscle-gain",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T10:06:22.176Z",
+          "dwell_ms": 58562
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/39415773/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T10:07:24.728Z",
+          "dwell_ms": 59989
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9999436/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T10:08:27.798Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 252053
+    }
+  },
+  {
+    "id": "bdf45718-a7db-4fc6-bf54-2fc02a7fc48b",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "36d1026c-a321-402c-86dd-9a49cabbbfa5",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:09:00.156Z",
+    "end_time": "2025-11-15T10:09:30.870Z",
+    "payload": {
+      "query": "intermittent fasting side effects",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+side+effects&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-side-effects-252727",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T10:09:04.883Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 30714
+    }
+  },
+  {
+    "id": "bdd2e3df-91b8-4505-a567-9ba892a51079",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "36d1026c-a321-402c-86dd-9a49cabbbfa5",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:09:50.016Z",
+    "end_time": "2025-11-15T10:11:19.300Z",
+    "payload": {
+      "query": "16:8 fasting schedule",
+      "serp_url": "https://www.google.com/search?q=16%3A8+fasting+schedule&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthdata.org/research-analysis/168-fasting-schedule",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T10:09:54.418Z",
+          "dwell_ms": 26940
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/559594",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T10:10:23.837Z",
+          "dwell_ms": 27103
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/168-fasting-schedule",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T10:10:55.045Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 89284
+    }
+  },
+  {
+    "id": "bd6d241d-1537-4f39-8c66-8f2f5af96dd3",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "36d1026c-a321-402c-86dd-9a49cabbbfa5",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:12:11.253Z",
+    "end_time": "2025-11-15T10:13:00.217Z",
+    "payload": {
+      "query": "is intermittent fasting safe",
+      "serp_url": "https://www.google.com/search?q=is+intermittent+fasting+safe&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9040843/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T10:12:18.599Z",
+          "dwell_ms": 35934
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/is-intermittent-fasting-safe",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T10:12:57.283Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 48964
+    }
+  },
+  {
+    "id": "a203e545-4b91-415e-bb45-71648f30d3ae",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "36d1026c-a321-402c-86dd-9a49cabbbfa5",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:13:11.046Z",
+    "end_time": "2025-11-15T10:13:33.087Z",
+    "payload": {
+      "query": "fasting and inflammation",
+      "serp_url": "https://www.google.com/search?q=fasting+and+inflammation&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/37872555/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T10:13:18.109Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 22041
+    }
+  },
+  {
+    "id": "6363cb7a-a588-4776-ac2a-c4981042eeb4",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "36d1026c-a321-402c-86dd-9a49cabbbfa5",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:15:28.612Z",
+    "end_time": "2025-11-15T10:17:21.399Z",
+    "payload": {
+      "query": "intermittent fasting women hormones",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+women+hormones&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-women-hormones-753136",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T10:15:35.391Z",
+          "dwell_ms": 80009
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-women-hormones",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T10:16:59.006Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 112787
+    }
+  },
+  {
+    "id": "34b15fbf-a860-4534-b813-93e54b875656",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "36d1026c-a321-402c-86dd-9a49cabbbfa5",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T10:17:34.649Z",
+    "end_time": "2025-11-15T10:21:20.875Z",
+    "payload": {
+      "query": "intermittent fasting keto",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+keto&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-keto",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T10:17:40.548Z",
+          "dwell_ms": 33036
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35822252/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T10:18:16.739Z",
+          "dwell_ms": 65227
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/intermittent-fasting-keto",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T10:19:25.134Z",
+          "dwell_ms": 80786
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/995322",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T10:20:48.568Z",
+          "dwell_ms": 20830
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/intermittent-fasting-keto/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T10:21:13.708Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 226226
+    }
+  },
+  {
+    "id": "3784dbf3-42b0-4849-9ed6-209a9fa677bb",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8a2d4cc8-1c80-40bc-a210-049154bcfb20",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T11:44:02.427Z",
+    "end_time": "2025-11-15T11:44:59.900Z",
+    "payload": {
+      "query": "intermittent fasting side effects",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+side+effects&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.medicalnewstoday.com/articles/516208",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T11:44:07.220Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 57473
+    }
+  },
+  {
+    "id": "f6be8d9c-50b4-45f5-b464-2dfcceae7593",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8a2d4cc8-1c80-40bc-a210-049154bcfb20",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T11:45:30.363Z",
+    "end_time": "2025-11-15T11:49:31.231Z",
+    "payload": {
+      "query": "autophagy fasting",
+      "serp_url": "https://www.google.com/search?q=autophagy+fasting&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.webmd.com/diet/a-z/autophagy-fasting",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T11:45:35.461Z",
+          "dwell_ms": 54713
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32121837/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T11:46:34.891Z",
+          "dwell_ms": 44525
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/autophagy-fasting",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T11:47:21.941Z",
+          "dwell_ms": 108017
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=autophagy+fasting",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T11:49:13.180Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 240868
+    }
+  },
+  {
+    "id": "ea327caa-3ed8-4cd3-99ed-24195e27fb34",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8a2d4cc8-1c80-40bc-a210-049154bcfb20",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T11:49:48.699Z",
+    "end_time": "2025-11-15T11:53:55.673Z",
+    "payload": {
+      "query": "fasting and inflammation",
+      "serp_url": "https://www.google.com/search?q=fasting+and+inflammation&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthline.com/nutrition/fasting-and-inflammation",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T11:49:54.859Z",
+          "dwell_ms": 36285
+        },
+        {
+          "url": "https://www.verywellfit.com/fasting-and-inflammation-897107",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T11:50:34.189Z",
+          "dwell_ms": 43728
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33703454/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T11:51:20.676Z",
+          "dwell_ms": 65331
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8048055/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T11:52:29.855Z",
+          "dwell_ms": 66359
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/fasting-and-inflammation",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T11:53:39.708Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 246974
+    }
+  },
+  {
+    "id": "16350ab2-1795-4440-82c3-2dd68214d823",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8a2d4cc8-1c80-40bc-a210-049154bcfb20",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T11:54:30.014Z",
+    "end_time": "2025-11-15T11:55:52.144Z",
+    "payload": {
+      "query": "is intermittent fasting safe",
+      "serp_url": "https://www.google.com/search?q=is+intermittent+fasting+safe&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/35863883/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T11:54:36.605Z",
+          "dwell_ms": 44641
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/535585",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T11:55:25.511Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 82130
+    }
+  },
+  {
+    "id": "fb339ca9-a84d-4ba3-adf7-3f14965a0a96",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8a2d4cc8-1c80-40bc-a210-049154bcfb20",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T11:56:15.311Z",
+    "end_time": "2025-11-15T11:57:23.935Z",
+    "payload": {
+      "query": "intermittent fasting and metabolism",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+and+metabolism&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+and+metabolism",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T11:56:20.786Z",
+          "dwell_ms": 55089
+        },
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-and-metabolism-719303",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T11:57:18.591Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 68624
+    }
+  },
+  {
+    "id": "a936ca47-e93c-40fc-8b55-c0a9c6ec4e94",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8a2d4cc8-1c80-40bc-a210-049154bcfb20",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T11:57:36.379Z",
+    "end_time": "2025-11-15T11:58:57.634Z",
+    "payload": {
+      "query": "intermittent fasting muscle gain",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+muscle+gain&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/intermittent-fasting-muscle-gain",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T11:57:42.567Z",
+          "dwell_ms": 51800
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-muscle-gain",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T11:58:37.534Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 81255
+    }
+  },
+  {
+    "id": "887b714f-8c68-48ea-ab60-838ab90e15b3",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8a2d4cc8-1c80-40bc-a210-049154bcfb20",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T11:59:16.646Z",
+    "end_time": "2025-11-15T12:00:03.163Z",
+    "payload": {
+      "query": "intermittent fasting research studies",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+research+studies&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.medicalnewstoday.com/articles/278353",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T11:59:21.696Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 46517
+    }
+  },
+  {
+    "id": "b6ed417e-01e7-4181-9c89-d7cf6fc2909c",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "8a2d4cc8-1c80-40bc-a210-049154bcfb20",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:00:36.968Z",
+    "end_time": "2025-11-15T12:01:01.156Z",
+    "payload": {
+      "query": "fasting insulin resistance",
+      "serp_url": "https://www.google.com/search?q=fasting+insulin+resistance&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/fasting-insulin-resistance",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T12:00:42.256Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 24188
+    }
+  },
+  {
+    "id": "3b657df5-4328-424d-bd9f-061c3bca0a64",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "0a7689d4-b0b4-4026-ae37-e867065d660b",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:18:03.248Z",
+    "end_time": "2025-11-15T12:19:27.981Z",
+    "payload": {
+      "query": "intermittent fasting and metabolism",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+and+metabolism&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-and-metabolism-720441",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T12:18:09.331Z",
+          "dwell_ms": 59664
+        },
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-and-metabolism",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T12:19:12.316Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 84733
+    }
+  },
+  {
+    "id": "7a3301e3-1b39-432e-823a-524851ef0de5",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "0a7689d4-b0b4-4026-ae37-e867065d660b",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:19:39.224Z",
+    "end_time": "2025-11-15T12:22:28.916Z",
+    "payload": {
+      "query": "autophagy fasting",
+      "serp_url": "https://www.google.com/search?q=autophagy+fasting&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/autophagy-fasting",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T12:19:43.654Z",
+          "dwell_ms": 5000
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/autophagy-fasting",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T12:19:53.358Z",
+          "dwell_ms": 5000
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/autophagy-fasting",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T12:20:01.909Z",
+          "dwell_ms": 65044
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/34430519/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T12:21:11.456Z",
+          "dwell_ms": 66196
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/437601",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T12:22:21.123Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 169692
+    }
+  },
+  {
+    "id": "cddec42c-3956-415a-9c49-89e8af48e6b5",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "0a7689d4-b0b4-4026-ae37-e867065d660b",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:22:46.410Z",
+    "end_time": "2025-11-15T12:27:53.886Z",
+    "payload": {
+      "query": "is intermittent fasting safe",
+      "serp_url": "https://www.google.com/search?q=is+intermittent+fasting+safe&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.medicalnewstoday.com/articles/493850",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T12:22:50.841Z",
+          "dwell_ms": 49281
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/is-intermittent-fasting-safe/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T12:23:44.236Z",
+          "dwell_ms": 56533
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8471194/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T12:24:45.881Z",
+          "dwell_ms": 78857
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/is-intermittent-fasting-safe",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T12:26:08.550Z",
+          "dwell_ms": 96494
+        },
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/is-intermittent-fasting-safe",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T12:27:47.911Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 307476
+    }
+  },
+  {
+    "id": "2f0cb59a-960f-4d4e-ab62-39c276810aaa",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "0a7689d4-b0b4-4026-ae37-e867065d660b",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:28:10.816Z",
+    "end_time": "2025-11-15T12:31:13.555Z",
+    "payload": {
+      "query": "intermittent fasting pubmed",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+pubmed&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.health.harvard.edu/blog/intermittent-fasting-pubmed",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T12:28:17.313Z",
+          "dwell_ms": 25431
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8879517/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T12:28:46.802Z",
+          "dwell_ms": 96120
+        },
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-pubmed-997322",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T12:30:26.017Z",
+          "dwell_ms": 42573
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-pubmed",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T12:31:11.496Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 182739
+    }
+  },
+  {
+    "id": "b7c0031a-a960-45d9-b1c5-ab45e70eec86",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "0a7689d4-b0b4-4026-ae37-e867065d660b",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:31:24.311Z",
+    "end_time": "2025-11-15T12:33:00.104Z",
+    "payload": {
+      "query": "intermittent fasting muscle gain",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+muscle+gain&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/intermittent-fasting-muscle-gain",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T12:31:28.181Z",
+          "dwell_ms": 54483
+        },
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-muscle-gain",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T12:32:27.288Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 95793
+    }
+  },
+  {
+    "id": "3a323648-616e-4d90-b476-386e8d00870c",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "4c5f9790-9f37-4e28-b9ca-124b42b3be1c",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:49:03.736Z",
+    "end_time": "2025-11-15T12:49:41.276Z",
+    "payload": {
+      "query": "intermittent fasting and metabolism",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+and+metabolism&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-and-metabolism",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T12:49:08.680Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 37540
+    }
+  },
+  {
+    "id": "2ef14b21-f493-4b92-a128-62dd1fe2af41",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "4c5f9790-9f37-4e28-b9ca-124b42b3be1c",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:50:05.051Z",
+    "end_time": "2025-11-15T12:54:21.983Z",
+    "payload": {
+      "query": "intermittent fasting benefits",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+benefits&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/intermittent-fasting-benefits",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T12:50:10.648Z",
+          "dwell_ms": 52677
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/intermittent-fasting-benefits",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T12:51:07.154Z",
+          "dwell_ms": 13703
+        },
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-benefits-566932",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T12:51:25.384Z",
+          "dwell_ms": 73893
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-benefits",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T12:52:43.827Z",
+          "dwell_ms": 68573
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/240548",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T12:53:56.384Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 256932
+    }
+  },
+  {
+    "id": "7f80f903-364e-452a-ac9d-3bd0b751bc00",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "4c5f9790-9f37-4e28-b9ca-124b42b3be1c",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:54:51.852Z",
+    "end_time": "2025-11-15T12:58:47.155Z",
+    "payload": {
+      "query": "16:8 fasting schedule",
+      "serp_url": "https://www.google.com/search?q=16%3A8+fasting+schedule&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://examine.com/supplements/fasting/168-fasting-schedule/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T12:54:57.089Z",
+          "dwell_ms": 54294
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/168-fasting-schedule",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T12:55:55.459Z",
+          "dwell_ms": 80423
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/168-fasting-schedule",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T12:57:19.847Z",
+          "dwell_ms": 59749
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7323784/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T12:58:22.741Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 235303
+    }
+  },
+  {
+    "id": "f98e2b0e-e1e8-4012-b970-6cb271b4c5ef",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "4c5f9790-9f37-4e28-b9ca-124b42b3be1c",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T12:59:21.369Z",
+    "end_time": "2025-11-15T13:03:41.532Z",
+    "payload": {
+      "query": "intermittent fasting for beginners",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+for+beginners&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/intermittent-fasting-for-beginners",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T12:59:26.757Z",
+          "dwell_ms": 60253
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/intermittent-fasting-for-beginners",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T13:00:30.509Z",
+          "dwell_ms": 29178
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/32910981/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T13:01:04.016Z",
+          "dwell_ms": 57727
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+for+beginners",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T13:02:04.491Z",
+          "dwell_ms": 70660
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-for-beginners",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T13:03:19.568Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 260163
+    }
+  },
+  {
+    "id": "f9854d58-8bc8-48b0-b4a6-13b8773a7552",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "4c5f9790-9f37-4e28-b9ca-124b42b3be1c",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:04:09.261Z",
+    "end_time": "2025-11-15T13:04:36.694Z",
+    "payload": {
+      "query": "5:2 diet plan",
+      "serp_url": "https://www.google.com/search?q=5%3A2+diet+plan&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.webmd.com/diet/a-z/52-diet-plan",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T13:04:15.680Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 27433
+    }
+  },
+  {
+    "id": "592dc704-8643-4b09-a5df-527ae37e82bb",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "4c5f9790-9f37-4e28-b9ca-124b42b3be1c",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:05:01.484Z",
+    "end_time": "2025-11-15T13:09:05.571Z",
+    "payload": {
+      "query": "intermittent fasting keto",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+keto&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-keto",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T13:05:07.278Z",
+          "dwell_ms": 62296
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/intermittent-fasting-keto/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T13:06:14.069Z",
+          "dwell_ms": 54471
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-keto",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T13:07:12.323Z",
+          "dwell_ms": 66241
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/intermittent-fasting-keto",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T13:08:22.140Z",
+          "dwell_ms": 35074
+        },
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/intermittent-fasting-keto",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T13:09:01.688Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 244087
+    }
+  },
+  {
+    "id": "4bd588bb-2017-4998-a929-5e5456f121f1",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "4c5f9790-9f37-4e28-b9ca-124b42b3be1c",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T13:09:15.860Z",
+    "end_time": "2025-11-15T13:10:38.642Z",
+    "payload": {
+      "query": "fasting blood sugar effects",
+      "serp_url": "https://www.google.com/search?q=fasting+blood+sugar+effects&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/31282973/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T13:09:22.332Z",
+          "dwell_ms": 56306
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/fasting-blood-sugar-effects",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T13:10:21.628Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 82782
+    }
+  },
+  {
+    "id": "909327fd-10f7-4fec-af53-fa1290719b3d",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "cc7fb541-0d46-4346-a5bc-b2f3c133fcaa",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T15:39:03.261Z",
+    "end_time": "2025-11-15T15:41:29.272Z",
+    "payload": {
+      "query": "intermittent fasting weight loss",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+weight+loss&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/intermittent-fasting-weight-loss",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T15:39:07.982Z",
+          "dwell_ms": 101816
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+weight+loss",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T15:40:52.916Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 146011
+    }
+  },
+  {
+    "id": "38f322ed-4ce5-467f-a50c-11007b8be946",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "cc7fb541-0d46-4346-a5bc-b2f3c133fcaa",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T15:42:03.102Z",
+    "end_time": "2025-11-15T15:42:52.347Z",
+    "payload": {
+      "query": "water fasting vs intermittent fasting",
+      "serp_url": "https://www.google.com/search?q=water+fasting+vs+intermittent+fasting&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33483726/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T15:42:07.774Z",
+          "dwell_ms": 5000
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/water-fasting-vs-intermittent-fasting",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T15:42:16.778Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 49245
+    }
+  },
+  {
+    "id": "8f7d3646-4f1c-44d7-aa46-f51264ef6311",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "cc7fb541-0d46-4346-a5bc-b2f3c133fcaa",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T15:43:26.703Z",
+    "end_time": "2025-11-15T15:46:13.321Z",
+    "payload": {
+      "query": "best foods to break a fast",
+      "serp_url": "https://www.google.com/search?q=best+foods+to+break+a+fast&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthline.com/nutrition/best-foods-to-break-a-fast",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T15:43:31.398Z",
+          "dwell_ms": 49438
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/best-foods-to-break-a-fast",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T15:44:25.788Z",
+          "dwell_ms": 54203
+        },
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/best-foods-to-break-a-fast",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T15:45:22.689Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 166618
+    }
+  },
+  {
+    "id": "74f1b770-95f4-4363-a71a-b51225a4a0ce",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "cc7fb541-0d46-4346-a5bc-b2f3c133fcaa",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T15:48:21.374Z",
+    "end_time": "2025-11-15T15:49:16.300Z",
+    "payload": {
+      "query": "fasting headache causes",
+      "serp_url": "https://www.google.com/search?q=fasting+headache+causes&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthline.com/nutrition/fasting-headache-causes",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T15:48:27.158Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 54926
+    }
+  },
+  {
+    "id": "294087db-4409-4f88-a804-2c04d3128152",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "cc7fb541-0d46-4346-a5bc-b2f3c133fcaa",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T15:49:50.242Z",
+    "end_time": "2025-11-15T15:53:23.021Z",
+    "payload": {
+      "query": "intermittent fasting keto",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+keto&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-keto",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T15:49:56.440Z",
+          "dwell_ms": 49407
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/intermittent-fasting-keto",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T15:50:49.247Z",
+          "dwell_ms": 40966
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+keto",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T15:51:33.380Z",
+          "dwell_ms": 43666
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-keto",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T15:52:19.335Z",
+          "dwell_ms": 40870
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-keto",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T15:53:05.201Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 212779
+    }
+  },
+  {
+    "id": "9b9109c9-4865-4cf1-8a50-1fe6cd729db9",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "cc7fb541-0d46-4346-a5bc-b2f3c133fcaa",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T15:53:41.666Z",
+    "end_time": "2025-11-15T15:54:05.763Z",
+    "payload": {
+      "query": "5:2 diet plan",
+      "serp_url": "https://www.google.com/search?q=5%3A2+diet+plan&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.health.harvard.edu/blog/52-diet-plan",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T15:53:46.639Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 24097
+    }
+  },
+  {
+    "id": "913ac2c2-f5e1-446b-b082-968c4dd53a45",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "699d0b6f-d85c-49ec-a564-9c217fa43c75",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T16:13:02.767Z",
+    "end_time": "2025-11-15T16:14:21.654Z",
+    "payload": {
+      "query": "16:8 fasting schedule",
+      "serp_url": "https://www.google.com/search?q=16%3A8+fasting+schedule&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/168-fasting-schedule",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T16:13:08.449Z",
+          "dwell_ms": 36624
+        },
+        {
+          "url": "https://www.verywellfit.com/168-fasting-schedule-382454",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T16:13:48.224Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 78887
+    }
+  },
+  {
+    "id": "9d00d98d-b346-4c5d-903c-c0d1e6ff24e9",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "699d0b6f-d85c-49ec-a564-9c217fa43c75",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T16:15:40.603Z",
+    "end_time": "2025-11-15T16:16:25.704Z",
+    "payload": {
+      "query": "intermittent fasting side effects",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+side+effects&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-side-effects",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T16:15:46.142Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 45101
+    }
+  },
+  {
+    "id": "a686d33a-0ce6-45b5-84bd-5b25e6d2344e",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "699d0b6f-d85c-49ec-a564-9c217fa43c75",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T16:17:05.003Z",
+    "end_time": "2025-11-15T16:19:19.806Z",
+    "payload": {
+      "query": "fasting headache causes",
+      "serp_url": "https://www.google.com/search?q=fasting+headache+causes&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthdata.org/research-analysis/fasting-headache-causes",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T16:17:10.053Z",
+          "dwell_ms": 69708
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=fasting+headache+causes",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T16:18:23.319Z",
+          "dwell_ms": 5000
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/545363",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T16:18:32.568Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 134803
+    }
+  },
+  {
+    "id": "ff0b8b38-a2f3-47ec-91b3-fb077995cc0c",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "699d0b6f-d85c-49ec-a564-9c217fa43c75",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T16:19:47.862Z",
+    "end_time": "2025-11-15T16:24:32.672Z",
+    "payload": {
+      "query": "IF meal planning",
+      "serp_url": "https://www.google.com/search?q=IF+meal+planning&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.verywellfit.com/if-meal-planning-888152",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T16:19:53.409Z",
+          "dwell_ms": 37104
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/if-meal-planning",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T16:20:34.671Z",
+          "dwell_ms": 73395
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7054020/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T16:21:52.302Z",
+          "dwell_ms": 15992
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=IF+meal+planning",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T16:22:11.538Z",
+          "dwell_ms": 120000
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33642461/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T16:24:15.029Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 284810
+    }
+  },
+  {
+    "id": "b8028416-8a25-4cba-baf2-4969d2ddd8e7",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "f3b89c37-aa25-46c3-9ab7-fcce3b2b76e8",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T09:20:03.651Z",
+    "end_time": "2025-11-15T09:20:17.690Z",
+    "payload": {
+      "query": "intermittent fasting research studies",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+research+studies&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-research-studies",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T09:20:10.050Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 14039
+    }
+  },
+  {
+    "id": "4a0c21ee-8276-4495-b60a-9686602fcdda",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "f3b89c37-aa25-46c3-9ab7-fcce3b2b76e8",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T09:20:25.250Z",
+    "end_time": "2025-11-15T09:24:02.662Z",
+    "payload": {
+      "query": "intermittent fasting pubmed",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+pubmed&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthline.com/nutrition/intermittent-fasting-pubmed",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T09:20:30.676Z",
+          "dwell_ms": 45867
+        },
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-pubmed-933700",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T09:21:20.314Z",
+          "dwell_ms": 53086
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+pubmed",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T09:22:17.035Z",
+          "dwell_ms": 74200
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7094969/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T09:23:35.176Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 217412
+    }
+  },
+  {
+    "id": "6d762369-1c3f-4655-9271-6a669d25ee9b",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "f3b89c37-aa25-46c3-9ab7-fcce3b2b76e8",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T09:24:28.352Z",
+    "end_time": "2025-11-15T09:27:40.166Z",
+    "payload": {
+      "query": "is intermittent fasting safe",
+      "serp_url": "https://www.google.com/search?q=is+intermittent+fasting+safe&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/is-intermittent-fasting-safe",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T09:24:34.676Z",
+          "dwell_ms": 39930
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/866483",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T09:25:17.560Z",
+          "dwell_ms": 44457
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/is-intermittent-fasting-safe",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T09:26:04.779Z",
+          "dwell_ms": 81431
+        },
+        {
+          "url": "https://www.verywellfit.com/is-intermittent-fasting-safe-924974",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T09:27:29.185Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 191814
+    }
+  },
+  {
+    "id": "0cf72261-6bdf-4dcc-ae13-91d9ef9ac959",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "f3b89c37-aa25-46c3-9ab7-fcce3b2b76e8",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T09:28:04.963Z",
+    "end_time": "2025-11-15T09:31:04.783Z",
+    "payload": {
+      "query": "intermittent fasting women hormones",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+women+hormones&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-women-hormones-139125",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T09:28:10.197Z",
+          "dwell_ms": 27826
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/intermittent-fasting-women-hormones/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T09:28:42.304Z",
+          "dwell_ms": 37355
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/intermittent-fasting-women-hormones",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T09:29:22.380Z",
+          "dwell_ms": 5000
+        },
+        {
+          "url": "https://www.medicalnewstoday.com/articles/347617",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T09:29:29.730Z",
+          "dwell_ms": 76538
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9879163/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T09:30:48.702Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 179820
+    }
+  },
+  {
+    "id": "bf96b35f-66f9-4134-ae2b-d03e3fc39931",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "f3b89c37-aa25-46c3-9ab7-fcce3b2b76e8",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T09:32:53.921Z",
+    "end_time": "2025-11-15T09:34:13.034Z",
+    "payload": {
+      "query": "intermittent fasting keto",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+keto&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.medicalnewstoday.com/articles/167386",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T09:32:59.601Z",
+          "dwell_ms": 38732
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=intermittent+fasting+keto",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T09:33:41.058Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 79113
+    }
+  },
+  {
+    "id": "6950c778-3ade-44b5-8d84-65c7afe043fa",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "f3b89c37-aa25-46c3-9ab7-fcce3b2b76e8",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T09:34:31.693Z",
+    "end_time": "2025-11-15T09:37:24.192Z",
+    "payload": {
+      "query": "autophagy fasting",
+      "serp_url": "https://www.google.com/search?q=autophagy+fasting&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/autophagy-fasting",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T09:34:36.762Z",
+          "dwell_ms": 40695
+        },
+        {
+          "url": "https://www.health.harvard.edu/blog/autophagy-fasting",
+          "hostname": "www.health.harvard.edu",
+          "click_timestamp": "2025-11-15T09:35:20.374Z",
+          "dwell_ms": 38793
+        },
+        {
+          "url": "https://www.verywellfit.com/autophagy-fasting-395416",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T09:36:01.642Z",
+          "dwell_ms": 49606
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/autophagy-fasting/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T09:36:54.158Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 172499
+    }
+  },
+  {
+    "id": "2a220ac9-240f-41ed-8ed1-54c5472281bd",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "f3b89c37-aa25-46c3-9ab7-fcce3b2b76e8",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T09:37:44.875Z",
+    "end_time": "2025-11-15T09:38:13.081Z",
+    "payload": {
+      "query": "IF meal planning",
+      "serp_url": "https://www.google.com/search?q=IF+meal+planning&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthdata.org/research-analysis/if-meal-planning",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T09:37:51.156Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 28206
+    }
+  },
+  {
+    "id": "53d38983-86fd-4fe3-9fac-dff08f67bce3",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "f3b89c37-aa25-46c3-9ab7-fcce3b2b76e8",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T09:38:40.065Z",
+    "end_time": "2025-11-15T09:40:27.746Z",
+    "payload": {
+      "query": "intermittent fasting muscle gain",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+muscle+gain&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8645655/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T09:38:43.934Z",
+          "dwell_ms": 25746
+        },
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-muscle-gain-400739",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T09:39:14.443Z",
+          "dwell_ms": 26916
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-muscle-gain",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T09:39:46.312Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 107681
+    }
+  },
+  {
+    "id": "503e08f6-93d6-4569-a63d-1e535911bb1c",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "a9a5f1d2-e5e8-45ba-a798-e89d6cada8e3",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T16:45:02.248Z",
+    "end_time": "2025-11-15T16:47:19.954Z",
+    "payload": {
+      "query": "intermittent fasting meal ideas",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+meal+ideas&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/intermittent-fasting-meal-ideas",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T16:45:07.371Z",
+          "dwell_ms": 86214
+        },
+        {
+          "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9885870/",
+          "hostname": "www.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T16:46:37.872Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 137706
+    }
+  },
+  {
+    "id": "8914e319-9e62-4869-ac4e-373c92abd1a4",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "a9a5f1d2-e5e8-45ba-a798-e89d6cada8e3",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T16:47:46.780Z",
+    "end_time": "2025-11-15T16:51:37.149Z",
+    "payload": {
+      "query": "intermittent fasting benefits",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+benefits&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33983202/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T16:47:53.442Z",
+          "dwell_ms": 78933
+        },
+        {
+          "url": "https://examine.com/supplements/fasting/intermittent-fasting-benefits/",
+          "hostname": "examine.com",
+          "click_timestamp": "2025-11-15T16:49:16.319Z",
+          "dwell_ms": 80098
+        },
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/intermittent-fasting-benefits",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T16:50:39.098Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 230369
+    }
+  },
+  {
+    "id": "87c6f98c-e64b-4616-8972-848582b114c3",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "a9a5f1d2-e5e8-45ba-a798-e89d6cada8e3",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T16:52:11.766Z",
+    "end_time": "2025-11-15T16:52:50.836Z",
+    "payload": {
+      "query": "does fasting slow aging",
+      "serp_url": "https://www.google.com/search?q=does+fasting+slow+aging&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthline.com/nutrition/does-fasting-slow-aging",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T16:52:17.589Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 39070
+    }
+  },
+  {
+    "id": "5507310b-5056-4a5c-b3d7-537d82db29af",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "a9a5f1d2-e5e8-45ba-a798-e89d6cada8e3",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T16:53:24.893Z",
+    "end_time": "2025-11-15T16:56:42.620Z",
+    "payload": {
+      "query": "16:8 fasting schedule",
+      "serp_url": "https://www.google.com/search?q=16%3A8+fasting+schedule&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.medicalnewstoday.com/articles/938542",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T16:53:31.467Z",
+          "dwell_ms": 38066
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/168-fasting-schedule",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T16:54:13.705Z",
+          "dwell_ms": 29831
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33482114/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T16:54:47.311Z",
+          "dwell_ms": 38442
+        },
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/168-fasting-schedule",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T16:55:29.960Z",
+          "dwell_ms": 48527
+        },
+        {
+          "url": "https://scholar.google.com/scholar?q=16%3A8+fasting+schedule",
+          "hostname": "scholar.google.com",
+          "click_timestamp": "2025-11-15T16:56:22.746Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 197727
+    }
+  },
+  {
+    "id": "0afc60b3-4616-4392-8331-aaaf8ef0dc0b",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "a9a5f1d2-e5e8-45ba-a798-e89d6cada8e3",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T16:57:12.948Z",
+    "end_time": "2025-11-15T16:59:24.134Z",
+    "payload": {
+      "query": "fasting insulin resistance",
+      "serp_url": "https://www.google.com/search?q=fasting+insulin+resistance&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.webmd.com/diet/a-z/fasting-insulin-resistance",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T16:57:19.470Z",
+          "dwell_ms": 53259
+        },
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/fasting-insulin-resistance",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T16:58:17.440Z",
+          "dwell_ms": 49652
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/fasting-insulin-resistance",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T16:59:11.226Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 131186
+    }
+  },
+  {
+    "id": "7f02a335-c487-4025-acaa-b83c4a277cee",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "a9a5f1d2-e5e8-45ba-a798-e89d6cada8e3",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T16:59:50.973Z",
+    "end_time": "2025-11-15T17:02:48.015Z",
+    "payload": {
+      "query": "5:2 diet plan",
+      "serp_url": "https://www.google.com/search?q=5%3A2+diet+plan&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.medicalnewstoday.com/articles/249996",
+          "hostname": "www.medicalnewstoday.com",
+          "click_timestamp": "2025-11-15T16:59:54.155Z",
+          "dwell_ms": 75230
+        },
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/52-diet-plan",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T17:01:12.480Z",
+          "dwell_ms": 61577
+        },
+        {
+          "url": "https://www.verywellfit.com/52-diet-plan-727496",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T17:02:17.152Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 177042
+    }
+  },
+  {
+    "id": "074e9b59-a2c3-4622-87da-f2a31646deba",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "a9a5f1d2-e5e8-45ba-a798-e89d6cada8e3",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T17:03:08.286Z",
+    "end_time": "2025-11-15T17:06:51.338Z",
+    "payload": {
+      "query": "intermittent fasting muscle gain",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+muscle+gain&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthline.com/nutrition/intermittent-fasting-muscle-gain",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T17:03:13.957Z",
+          "dwell_ms": 46839
+        },
+        {
+          "url": "https://pubmed.ncbi.nlm.nih.gov/30142130/",
+          "hostname": "pubmed.ncbi.nlm.nih.gov",
+          "click_timestamp": "2025-11-15T17:04:04.356Z",
+          "dwell_ms": 42872
+        },
+        {
+          "url": "https://www.nhs.uk/live-well/eat-well/intermittent-fasting-muscle-gain",
+          "hostname": "www.nhs.uk",
+          "click_timestamp": "2025-11-15T17:04:51.010Z",
+          "dwell_ms": 54523
+        },
+        {
+          "url": "https://www.healthdata.org/research-analysis/intermittent-fasting-muscle-gain",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T17:05:49.014Z",
+          "dwell_ms": 33145
+        },
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-muscle-gain-678031",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T17:06:26.322Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 223052
+    }
+  },
+  {
+    "id": "dcc06fbd-2404-482d-aa7e-4ac0d989b731",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "a9a5f1d2-e5e8-45ba-a798-e89d6cada8e3",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T17:07:33.303Z",
+    "end_time": "2025-11-15T17:09:48.487Z",
+    "payload": {
+      "query": "intermittent fasting keto",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+keto&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.everydayhealth.com/diet-nutrition/intermittent-fasting-keto",
+          "hostname": "www.everydayhealth.com",
+          "click_timestamp": "2025-11-15T17:07:39.482Z",
+          "dwell_ms": 54715
+        },
+        {
+          "url": "https://www.healthline.com/nutrition/intermittent-fasting-keto",
+          "hostname": "www.healthline.com",
+          "click_timestamp": "2025-11-15T17:08:38.125Z",
+          "dwell_ms": 26738
+        },
+        {
+          "url": "https://www.webmd.com/diet/a-z/intermittent-fasting-keto",
+          "hostname": "www.webmd.com",
+          "click_timestamp": "2025-11-15T17:09:09.593Z",
+          "dwell_ms": 33678
+        },
+        {
+          "url": "https://www.verywellfit.com/intermittent-fasting-keto-307189",
+          "hostname": "www.verywellfit.com",
+          "click_timestamp": "2025-11-15T17:09:46.444Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 135184
+    }
+  },
+  {
+    "id": "a7363dd9-7100-44e7-9d7a-2d1ffd3e4f30",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "a851928b-d8b7-487f-825e-14b2f4b457ca",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T11:26:02.842Z",
+    "end_time": "2025-11-15T11:26:25.428Z",
+    "payload": {
+      "query": "autophagy fasting",
+      "serp_url": "https://www.google.com/search?q=autophagy+fasting&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.mayoclinic.org/healthy-lifestyle/nutrition/autophagy-fasting",
+          "hostname": "www.mayoclinic.org",
+          "click_timestamp": "2025-11-15T11:26:08.973Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 22586
+    }
+  },
+  {
+    "id": "c151143e-97fb-4741-bccc-98de2bad831f",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "a851928b-d8b7-487f-825e-14b2f4b457ca",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T11:26:52.995Z",
+    "end_time": "2025-11-15T11:27:50.337Z",
+    "payload": {
+      "query": "best foods to break a fast",
+      "serp_url": "https://www.google.com/search?q=best+foods+to+break+a+fast&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.healthdata.org/research-analysis/best-foods-to-break-a-fast",
+          "hostname": "www.healthdata.org",
+          "click_timestamp": "2025-11-15T11:26:57.748Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 57342
+    }
+  },
+  {
+    "id": "a58c3c2b-2841-465c-b588-bccb71dec0e5",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "a851928b-d8b7-487f-825e-14b2f4b457ca",
+    "parser_id": "google_search_v1",
+    "type": "google_search",
+    "start_time": "2025-11-15T11:30:03.027Z",
+    "end_time": "2025-11-15T11:30:52.592Z",
+    "payload": {
+      "query": "intermittent fasting women hormones",
+      "serp_url": "https://www.google.com/search?q=intermittent+fasting+women+hormones&sourceid=chrome&ie=UTF-8",
+      "result_clicks": [
+        {
+          "url": "https://www.dietdoctor.com/intermittent-fasting/intermittent-fasting-women-hormones",
+          "hostname": "www.dietdoctor.com",
+          "click_timestamp": "2025-11-15T11:30:08.580Z",
+          "dwell_ms": null
+        }
+      ],
+      "session_duration_ms": 49565
+    }
+  }
+]

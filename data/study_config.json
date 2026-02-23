@@ -1,0 +1,82 @@
+{
+  "allowed_domains": [
+    "google.com",
+    "www.google.com",
+    "scholar.google.com",
+    "pubmed.ncbi.nlm.nih.gov",
+    "www.ncbi.nlm.nih.gov",
+    "www.healthline.com",
+    "www.mayoclinic.org",
+    "www.webmd.com",
+    "www.medicalnewstoday.com",
+    "www.health.harvard.edu",
+    "www.nhs.uk",
+    "www.dietdoctor.com",
+    "examine.com",
+    "www.healthdata.org",
+    "www.everydayhealth.com",
+    "www.verywellfit.com",
+    "chatgpt.com"
+  ],
+  "free_web": false,
+  "input_capture_rules": [
+    {
+      "name": "google_search",
+      "description": "Captures search queries submitted to Google.",
+      "field_role": "search_query",
+      "service": "google",
+      "url_pattern": "^https://(www\\.)?google\\.",
+      "selector": "textarea[name='q'], input[name='q']",
+      "capture_mode": "submit_only",
+      "submit_triggers": {
+        "enter_key": true,
+        "form_submit": true,
+        "button_click": true,
+        "dom_change_heuristic": false
+      },
+      "submit_button_selector": null
+    },
+    {
+      "name": "chatgpt_prompt",
+      "description": "Captures prompts sent to ChatGPT.",
+      "field_role": "chat_prompt",
+      "service": "chatgpt",
+      "url_pattern": "^https://chat(gpt)?\\.openai\\.com|^https://chatgpt\\.com",
+      "selector": "#prompt-textarea, [contenteditable='true']",
+      "capture_mode": "submit_only",
+      "submit_triggers": {
+        "enter_key": true,
+        "form_submit": false,
+        "button_click": true,
+        "dom_change_heuristic": false
+      },
+      "submit_button_selector": "button[data-testid='send-button']"
+    }
+  ],
+  "max_session_length_seconds": 1200,
+  "enabled_parsers": [
+    "google_search_v1",
+    "chatgpt_session_v1"
+  ],
+  "experiment_pane": {
+    "enabled": false,
+    "mode": "markdown",
+    "markdown": null,
+    "url": null,
+    "params": {
+      "pass_participant_id": true,
+      "pass_session_id": true,
+      "pass_participant_fields": false,
+      "extra_params": {}
+    }
+  },
+  "start_url": "https://www.google.com",
+  "start_url_params": [],
+  "recruitment": {
+    "participant_id_param": null,
+    "platform_study_id_param": null,
+    "capture_params": []
+  },
+  "allow_rejoin": false,
+  "anonymize_emails": true
+}

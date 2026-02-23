@@ -1,0 +1,180 @@
+[
+  {
+    "id": "c4725950-1a4f-46e5-9c24-a670a73a3a1d",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "7056df9b-b57d-4964-a4d8-ae42acc4cc1b",
+    "parser_id": "chatgpt_session_v1",
+    "type": "chatgpt_conversation",
+    "start_time": "2025-11-15T12:02:54.969Z",
+    "end_time": "2025-11-15T12:03:05.794Z",
+    "payload": {
+      "prompts": [
+        {
+          "text": "What does the latest research say about intermittent fasting and longevity?",
+          "timestamp": "2025-11-15T12:02:57.745Z"
+        }
+      ],
+      "prompt_count": 1,
+      "response_seen": true,
+      "prompt_timestamp": "2025-11-15T12:02:57.745Z",
+      "response_timestamp": "2025-11-15T12:03:01.772Z",
+      "conversation_url": "https://chatgpt.com/c/a201fae4-f946-45e6-971f-1e1f43debb44"
+    }
+  },
+  {
+    "id": "1678855a-c9bc-4d5e-a92a-dae045715110",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "e2e192c6-b915-4517-9168-9287a8c162f4",
+    "parser_id": "chatgpt_session_v1",
+    "type": "chatgpt_conversation",
+    "start_time": "2025-11-15T13:34:33.761Z",
+    "end_time": "2025-11-15T13:34:45.279Z",
+    "payload": {
+      "prompts": [
+        {
+          "text": "How long does it take for autophagy to start during fasting?",
+          "timestamp": "2025-11-15T13:34:37.734Z"
+        }
+      ],
+      "prompt_count": 1,
+      "response_seen": true,
+      "prompt_timestamp": "2025-11-15T13:34:37.734Z",
+      "response_timestamp": "2025-11-15T13:34:43.464Z",
+      "conversation_url": "https://chatgpt.com/c/04b8489e-a25e-4413-a246-d604ff43589e"
+    }
+  },
+  {
+    "id": "9bc5c9ee-f901-4585-a28b-09407db1b9b5",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "38f7ea35-68da-4c0b-9fd3-060443244bad",
+    "parser_id": "chatgpt_session_v1",
+    "type": "chatgpt_conversation",
+    "start_time": "2025-11-15T13:28:28.567Z",
+    "end_time": "2025-11-15T13:30:49.527Z",
+    "payload": {
+      "prompts": [
+        {
+          "text": "What should I eat to break a fast for maximum benefit?",
+          "timestamp": "2025-11-15T13:28:31.143Z"
+        },
+        {
+          "text": "Is there evidence that fasting improves gut microbiome?",
+          "timestamp": "2025-11-15T13:29:28.938Z"
+        },
+        {
+          "text": "Is 16:8 fasting safe for someone with diabetes?",
+          "timestamp": "2025-11-15T13:30:29.025Z"
+        }
+      ],
+      "prompt_count": 3,
+      "response_seen": true,
+      "prompt_timestamp": "2025-11-15T13:28:31.143Z",
+      "response_timestamp": "2025-11-15T13:30:33.299Z",
+      "conversation_url": "https://chatgpt.com/c/c0bba5f4-231b-4e6c-8d7c-5179a031f780"
+    }
+  },
+  {
+    "id": "05128cc7-dc14-47e3-aaa4-3f50bb0e73fe",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "36d1026c-a321-402c-86dd-9a49cabbbfa5",
+    "parser_id": "chatgpt_session_v1",
+    "type": "chatgpt_conversation",
+    "start_time": "2025-11-15T10:14:06.604Z",
+    "end_time": "2025-11-15T10:15:15.488Z",
+    "payload": {
+      "prompts": [
+        {
+          "text": "How long does it take for autophagy to start during fasting?",
+          "timestamp": "2025-11-15T10:14:09.026Z"
+        },
+        {
+          "text": "Summarize the key findings on intermittent fasting from PubMed",
+          "timestamp": "2025-11-15T10:14:57.909Z"
+        }
+      ],
+      "prompt_count": 2,
+      "response_seen": true,
+      "prompt_timestamp": "2025-11-15T10:14:09.026Z",
+      "response_timestamp": "2025-11-15T10:15:02.081Z",
+      "conversation_url": "https://chatgpt.com/c/3cb3be2c-18ee-407d-a8a8-d69616f0b1eb"
+    }
+  },
+  {
+    "id": "67475560-4c5b-44a1-bc2c-a391deed69b8",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "cc7fb541-0d46-4346-a5bc-b2f3c133fcaa",
+    "parser_id": "chatgpt_session_v1",
+    "type": "chatgpt_conversation",
+    "start_time": "2025-11-15T15:46:54.214Z",
+    "end_time": "2025-11-15T15:47:37.908Z",
+    "payload": {
+      "prompts": [
+        {
+          "text": "Is 16:8 fasting safe for someone with diabetes?",
+          "timestamp": "2025-11-15T15:46:58.267Z"
+        },
+        {
+          "text": "Is there evidence that fasting improves gut microbiome?",
+          "timestamp": "2025-11-15T15:47:32.587Z"
+        }
+      ],
+      "prompt_count": 2,
+      "response_seen": true,
+      "prompt_timestamp": "2025-11-15T15:46:58.267Z",
+      "response_timestamp": "2025-11-15T15:47:37.031Z",
+      "conversation_url": "https://chatgpt.com/c/1f39466a-c374-480c-87e1-41ea84a6eb98"
+    }
+  },
+  {
+    "id": "6dd0198f-b284-444d-a52b-2097b70790ff",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "f3b89c37-aa25-46c3-9ab7-fcce3b2b76e8",
+    "parser_id": "chatgpt_session_v1",
+    "type": "chatgpt_conversation",
+    "start_time": "2025-11-15T09:31:31.659Z",
+    "end_time": "2025-11-15T09:32:41.926Z",
+    "payload": {
+      "prompts": [
+        {
+          "text": "Explain autophagy in simple terms",
+          "timestamp": "2025-11-15T09:31:33.531Z"
+        },
+        {
+          "text": "How does fasting affect muscle mass?",
+          "timestamp": "2025-11-15T09:32:18.854Z"
+        }
+      ],
+      "prompt_count": 2,
+      "response_seen": true,
+      "prompt_timestamp": "2025-11-15T09:31:33.531Z",
+      "response_timestamp": "2025-11-15T09:32:26.739Z",
+      "conversation_url": "https://chatgpt.com/c/b2d1b300-52eb-4637-80c2-7be64f745d1f"
+    }
+  },
+  {
+    "id": "c1f68e69-f49c-4541-bacc-ea082b6f18f6",
+    "study_id": "6310fde6-8b6c-9344-382d-2b30d3c8ffe0",
+    "session_id": "a851928b-d8b7-487f-825e-14b2f4b457ca",
+    "parser_id": "chatgpt_session_v1",
+    "type": "chatgpt_conversation",
+    "start_time": "2025-11-15T11:28:29.390Z",
+    "end_time": "2025-11-15T11:29:28.364Z",
+    "payload": {
+      "prompts": [
+        {
+          "text": "How does fasting affect muscle mass?",
+          "timestamp": "2025-11-15T11:28:32.586Z"
+        },
+        {
+          "text": "Can intermittent fasting help with inflammation?",
+          "timestamp": "2025-11-15T11:29:16.019Z"
+        }
+      ],
+      "prompt_count": 2,
+      "response_seen": true,
+      "prompt_timestamp": "2025-11-15T11:28:32.586Z",
+      "response_timestamp": "2025-11-15T11:29:23.502Z",
+      "conversation_url": "https://chatgpt.com/c/4bbc11ea-4226-4afc-86fa-afc25bad9176"
+    }
+  }
+]
