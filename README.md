@@ -1,8 +1,8 @@
 # How People Search for Health Information
 
-Sample data and analysis code for a [LaBrowser](https://github.com/technologylab-ai/labrowser) example study.
+Sample data and analysis code for a [LaBrowser](https://labrowser.app) example study.
 
-20 participants researched intermittent fasting using Google Search, health websites, and ChatGPT. LaBrowser captured every search query, click, page visit, and AI prompt as structured event data. This repository contains the exported data and a Jupyter notebook that reproduces the analysis shown on the [showcase page](https://labrowser.technologylab.ai/examples/health-search).
+20 participants researched intermittent fasting using Google Search, health websites, and ChatGPT. LaBrowser captured every search query, click, page visit, and AI prompt as structured event data. This repository contains the exported data and a Jupyter notebook that reproduces the analysis shown on the [showcase page](https://labrowser.app/examples/health-search).
 
 ## What's in the data
 
@@ -20,7 +20,7 @@ All files use the exact export format from the LaBrowser Study Console.
 - **Three research strategies emerged**: deep divers (few queries, long reading), wide scanners (many queries, quick skimming), and AI-assisted (ChatGPT + targeted searches)
 - **ChatGPT users issued fewer search queries** (5.8 vs 7.4) and visited fewer sources (8.2 vs 12.1), suggesting AI partially substitutes for traditional web searching
 - **Academic sources (PubMed, Harvard) had the longest dwell times** (72-84s) despite getting fewer clicks than popular health sites like Healthline (52s)
-- **30% of participants used ChatGPT** alongside Google Search, primarily for summaries and safety-related questions
+- **35% of participants used ChatGPT** alongside Google Search, primarily for summaries and safety-related questions
 
 ## Quick start
 
@@ -87,6 +87,6 @@ Each derived session has:
 
 ## About LaBrowser
 
-[LaBrowser](https://github.com/technologylab-ai/labrowser) is a dedicated research browser for behavioral studies. Participants use it instead of their normal browser — everything inside is logged as structured, typed events. Everything outside is untouched.
+[LaBrowser](https://labrowser.app) is a dedicated research browser for behavioral studies. Participants use it instead of their normal browser — everything inside is logged as structured, typed events. Everything outside is untouched.
 
-Learn more at [labrowser.technologylab.ai](https://labrowser.technologylab.ai).
+Learn more at [labrowser.app](https://labrowser.app) and see the matching showcase page at [labrowser.app/examples/health-search](https://labrowser.app/examples/health-search).
